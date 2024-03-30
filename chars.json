@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "name": "Street Fighter",
+      "image": "Street Fighter/image.png",
+      "characters": [
+        {
+          "styleName": "Capcom VS SNK Groove EX",
+          "definition": "Street Fighter/Ryu/Ryu Groove EX.def",
+          "styles": [
+            {
+              "styleName": "Capcom VS SNK Groove C",
+              "definition": "Street Fighter/Ryu/Ryu Groove C.def"
+            },
+            {
+              "styleName": "Capcom VS SNK Groove A",
+              "definition": "Street Fighter/Ryu/Ryu Groove A.def"
+            },
+            {
+              "styleName": "Capcom VS SNK Groove P",
+              "definition": "Street Fighter/Ryu/Ryu Groove P.def"
+            },
+            {
+              "styleName": "Capcom VS SNK Groove S",
+              "definition": "Street Fighter/Ryu/Ryu Groove S.def"
+            },
+            {
+              "styleName": "Capcom VS SNK Groove N",
+              "definition": "Street Fighter/Ryu/Ryu Groove N.def"
+            },
+            {
+              "styleName": "Capcom VS SNK Groove K",
+              "definition": "Street Fighter/Ryu/Ryu Groove K.def"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragon Ball",
+      "image": "Dragon Ball/image.png",
+      "characters": [
+        {
+          "definition": "Dragon Ball/Goku/Goku.def"
+        }
+      ]
+    }
+  ]
+}

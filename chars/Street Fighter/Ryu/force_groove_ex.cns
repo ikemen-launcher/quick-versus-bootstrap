@@ -1,0 +1,14 @@
+[Statedef 6000]
+ctrl = 0
+anim = 6900
+
+[State 6000, VarSet]
+type = ParentVarSet
+trigger1 = prevstateno != 6000
+trigger1 = Time = 0
+var(20) = 6
+
+[State 6000, DestroySelf]
+type = DestroySelf
+trigger1 = roundstate > 1 && !var(0)
+trigger2 = time > 0

@@ -1,0 +1,39 @@
+[Info]
+name = "cvsryu"		;�����E(cvs)
+displayname = "Ryu"		;�����E
+versiondate=09,08,2011	;Version date of character
+mugenversion=06,14,2003	;Version of M.U.G.E.N character works on
+author="Warusaki3"		;����3��
+Pal.Defaults=4,5,10,11
+
+[Files]
+cmd=cvsryu.cmd
+cns=cvsryu.cns
+st=cvsryu.cns
+st1=cvs_common.cns
+st2=force_groove_c.cns
+st3=groove_without_selection.cns
+st4=config.txt
+stcommon=common1.cns
+sprite=cvsryu.sff
+anim=cvsryu.air
+sound=cvsryu.snd
+pal1=act004.act;�J�v�G�X2��K�J���[
+pal2=act005.act;�J�v�G�X2��K�J���[
+pal3=act009.act;�X�gZERO�J���[
+pal4=act001.act;�J�v�G�X2��P�J���[
+pal5=act002.act;�J�v�G�X2��P�J���[
+pal6=act010.act;�X�p2X�X�^�[�g�J���[
+pal7=act104.act;�J�v�G�X2�E�ӎ�K�J���[
+pal8=act105.act;�J�v�G�X2�E�Ӓ�K�J���[
+pal9=act106.act;�J�v�G�X2�E�Ӌ�K�J���[
+pal10=act101.act;�J�v�G�X2�E�ӎ�P�J���[
+pal11=act102.act;�J�v�G�X2�E�Ӓ�P�J���[
+pal12=act107.act;�J�v�G�X2�E��P���������J���[
+
+;pal**=act003.act;�J�v�G�X2��P�J���[
+;pal**=act006.act;�J�v�G�X2��K�J���[
+;pal**=act007.act;�J�v�G�X2P���������J���[
+;pal**=act008.act;�J�v�G�X2K���������J���[
+;pal**=act103.act;�J�v�G�X2�E�Ӌ�P�J���[
+;pal**=act108.act;�J�v�G�X2�E��K���������J���[
