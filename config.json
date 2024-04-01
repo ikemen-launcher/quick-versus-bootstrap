@@ -1,5 +1,6 @@
 {
   "ikemenExecutable": "./run-ikemen.sh",
+  "ikemenExecutableWindows": "run-ikemen.cmd",
   "motif": "system.def",
   "lifebar": "VHD/fight.def",
   "rounds": 2,
